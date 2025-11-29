@@ -2,7 +2,7 @@
   "name": "dialogboxjs-tester",
   "description": "Sandbox project for developing, testing and learning the use of the dialogboxjs library",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "author": "ITA",
   "license": "ISC",
