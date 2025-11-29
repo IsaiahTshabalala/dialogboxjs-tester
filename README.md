@@ -1,11 +1,9 @@
-````markdown
 # Modal Dialog Test App
 
 This is a simple React + Vite test application demonstrating the use of the **DialogBoxJS** package — a reusable modal dialog box component. 
 This project is meant to be a sandbox/test environment for `dialogboxjs`. 
 
 ---
-
 ## Features
 
 - Demonstrates using `DialogBoxProvider` and `DialogBox` components.
@@ -13,14 +11,12 @@ This project is meant to be a sandbox/test environment for `dialogboxjs`.
 - Lightweight Vite + React setup.
 
 ---
-
 ## Prerequisites
 
 - Node.js >= 18
 - npm >= 9
 
 ---
-
 ## Setup
 
 1. Clone this repository:
@@ -45,7 +41,7 @@ cd ../<repo-name>
 npm link dialogboxjs
 ```
 
-> If using the published npm package, just install it normally:
+4. If using the published npm package, just install it normally:
 
 ```bash
 npm install dialogboxjs
@@ -66,7 +62,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 You should see a page with a button to open the DialogBox modal.
 
 ---
-
 ## Project Structure
 
 ```
@@ -157,6 +152,3 @@ export default function App() {
 ## License
 
 MIT License
-
-```
-```
