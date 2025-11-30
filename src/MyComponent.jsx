@@ -8,6 +8,7 @@
  * Date        Version   Author  Description
  * =========================================================
  * 2025/11/27  1.0.0     ITA     Genesis.
+ * 2025/11/30  1.0.1     ITA     Removed unused import useEffect.
 */
 
 /** VERY IMPORTANT!!!
@@ -27,7 +28,7 @@ import { DialogBox } from 'dialogboxjs';
 import { useDialogBox } from 'dialogboxjs';
 // import DialogBox from './modal/DialogBox';
 // import { useDialogBox } from './modal/DialogBoxProvider';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 export default function MyComponent() {
     // Custom hook to access functions for opening/closing the dialog box.

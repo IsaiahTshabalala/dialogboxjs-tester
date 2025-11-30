@@ -1,7 +1,7 @@
 # Modal Dialog Test App
 
 This is a simple React + Vite test application demonstrating the use of the **DialogBoxJS** package — a reusable modal dialog box component. 
-This project is meant to be a sandbox/test environment for `dialogboxjs`. 
+This project is meant to be an environment to develop, test and learn the `dialogboxjs` package.
 
 ---
 ## Features
