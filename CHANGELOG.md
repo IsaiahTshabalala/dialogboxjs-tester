@@ -13,3 +13,8 @@ Added a correct version number.
 - Updated version numbers to the package.
 - Improved description of the project in the README file.
 - DialogBox.js and DialogBoxProvider.js: Changed the import of 'prop-types' to an explicit non-default prop-types objects.
+
+## Version 1.0.4 - 2025/12/01 - ITA
+- NB. The issue addressed in this patch and previous patchs, to do with DialogBox and DialogBoxProvider, only pops up when working with them when consumed from the installed dialogboxpackagejs npm package.
+- The issue was resolved in the dialogboxjs package's build process.
+- Reverted back to default import of prop-types, as this was not a problem.

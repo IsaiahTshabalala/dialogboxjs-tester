@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "dialogboxjs": "^1.0.6",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-modal": "^3.16.3"
